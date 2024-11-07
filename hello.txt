@@ -2,3 +2,4 @@ hello my first code written for git
 continued
 new line
 New line added by singapore EC2 Instance
+second line added by singapore EC2 Instance
